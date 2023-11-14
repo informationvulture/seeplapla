@@ -1,3 +1,9 @@
+# My virtual env
+my_env/
+
+# Where I store HTML files
+test_pages/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
